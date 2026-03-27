@@ -1,5 +1,5 @@
 # Ecological Data Visualization
-
+(https://nbviewer.org/github/Jsanchez04/Ecological-Data-Viz/blob/main/Ecological-Data-Viz.ipynb) Click here to view the interactive version of this analysis.
 ## Project Overview
 This project analyzes the Palmer Penguins dataset to explore species diversity and morphological patterns among Antarctic penguins. 
 
